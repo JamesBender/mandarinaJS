@@ -16,7 +16,7 @@ if [ "$1" = "beta" ]; then
   fi
 fi
 
-EMBERVERSION=`ember version | grep "mandarinajs:" | cut -d' ' -f2`
+EMBERVERSION=`ember version | grep "ember-cli:" | cut -d' ' -f2`
 
 commands=(new addon)
 
