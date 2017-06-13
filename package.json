@@ -27,8 +27,8 @@
     "name": "Stefan Penner, Robert Jackson and ember-cli contributors"
   },
   "bin": {
-    "ember": "./bin/ember",
-    "🐹": "./bin/ember"
+    "ignite-ui": "./bin/ignite-ui",
+    "🐹": "./bin/ignite-ui"
   },
   "bugs": {
     "url": "https://github.com/ember-cli/ember-cli/issues"
@@ -179,5 +179,5 @@
     "test:debug": "node debug tests/runner"
   },
   "trackingCode": "UA-49225444-1",
-  "version": "2.13.2"
+  "version": "17.2.1001"
 }
