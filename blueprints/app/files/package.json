@@ -11,7 +11,7 @@
   "repository": "",
   "scripts": {
     "build": "ember build",
-    "start": "ember server",
+    "start": "ignite-ui server",
     "test": "ember test"
   },
   "devDependencies": {
